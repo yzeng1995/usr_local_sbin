@@ -1,4 +1,4 @@
-# network security system scripts
+# Network Security System Scripts
 
 Author:Yan Zeng
 
@@ -19,7 +19,7 @@ ip address whose the number of failed times is greater
 than 5.
 
 Then the script add the ipaddress to /etc/hosts.deny
-to reject ssh connect.
+to reject ssh connection.
 
 ## drop_ssh_hosts_local.sh
 This script find the ip do the following things
