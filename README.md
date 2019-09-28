@@ -11,6 +11,15 @@ ensure server security in the public internet.
 
 The scripts can run on Centos7 system.
 
+update:2019-09-24
+
+#Note:
+This progrom will nolonger be update, this program have been
+merged into <br>
+[https://github.com/yzeng1995/fast_set_centos](
+https://github.com/yzeng1995/fast_set_centos)
+<br>
+
 # Functions
 ## deny_ssh_hosts.sh
 
